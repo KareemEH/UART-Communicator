@@ -1,5 +1,5 @@
 # UART-Communicator
-This Project demonstartes the use of a microprocessor to simulate a state machine with various LED states.
+This Project demonstrates the use of a microprocessor to simulate a state machine with various LED states.
 
 # State Machine
 The chosen state machine has 4 states, each with different LED configurations (state 1 means both LEDs 
